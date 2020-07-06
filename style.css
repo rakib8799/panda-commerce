@@ -46,7 +46,8 @@
 .cat-1,
 .cat-2,
 .cat-3 {
-  padding: 0 20px;
+  padding: 10px 30px;
+  margin-bottom: 30px;
   border-radius: 10px;
 }
 
@@ -75,4 +76,12 @@
 .subscribe input:focus {
   outline: none;
 
+}
+
+.bt-1 {
+  background: linear-gradient(to right, #333, black);
+}
+
+.p-1 {
+  color: #444;
 }
